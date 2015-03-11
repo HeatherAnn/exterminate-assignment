@@ -40,3 +40,37 @@ h1{
 	width: 320px;
 	margin: 0em auto;
 }
+.robot-body{
+width: 320px;
+top: 4em;
+margin-top: 72px;
+display:block;
+}
+
+.left{
+position: absolute;
+width: 125px;
+bottom: 28.5%;
+right: 50%;
+transition: all 300ms linear;
+}
+
+.right{
+position: absolute;
+width: 125px;
+bottom: 28.5%%;
+left: 49.9%;
+transition: all 300ms linear;
+}
+
+.brain{
+position: absolute;
+width: 46px;
+bottom: 57.9%;
+left: 42.7%;
+transition: all 300ms linear;
+}
+
+body{
+margin:0;
+}
